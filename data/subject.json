@@ -3,7 +3,7 @@
   "name": "الفيزياء الشعاعية",
   "platformTitle": "منصة QDU للاختبار التفاعلي",
   "author": "مقتدى الكناني",
-  "contentVersion": "radiographic-physics-1",
+  "contentVersion": "radiographic-physics-2",
   "enrichmentFiles": [
     "enrichment.json"
   ]

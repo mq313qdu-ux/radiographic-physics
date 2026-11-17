@@ -502,5 +502,1013 @@
       "Because they produce a completely straight longitudinal image"
     ],
     "correct": 0
+  },
+  {
+    "id": "practical-l1-q001",
+    "lectureId": "practical-l1",
+    "text": "Which frequency range is classified as ultrasound?",
+    "options": [
+      "20–200 Hz",
+      "Above 20 kHz",
+      "200–2,000 Hz",
+      "Below 20 Hz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q002",
+    "lectureId": "practical-l1",
+    "text": "What is the approximate audible frequency range of the human ear?",
+    "options": [
+      "2–18 MHz",
+      "20–20,000 Hz",
+      "20–200 Hz",
+      "40–80 kHz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q003",
+    "lectureId": "practical-l1",
+    "text": "Who discovered the piezoelectric effect in 1880?",
+    "options": [
+      "Isaac Newton and Albert Einstein",
+      "Jacques and Pierre Curie",
+      "Wilhelm Röntgen and Marie Curie",
+      "James Watson and Francis Crick"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q004",
+    "lectureId": "practical-l1",
+    "text": "What is the main purpose of ultrasound imaging?",
+    "options": [
+      "To produce images of structures inside the body",
+      "To detect ionizing radiation",
+      "To produce X-ray images of bones",
+      "To measure blood pressure directly"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l1-q005",
+    "lectureId": "practical-l1",
+    "text": "What is the piezoelectric effect?",
+    "options": [
+      "Production of light by radiofrequency pulses",
+      "Production of electric charge by mechanical stress",
+      "Absorption of X-rays by a crystal",
+      "Production of heat by sound absorption"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q006",
+    "lectureId": "practical-l1",
+    "text": "What occurs in the converse piezoelectric effect?",
+    "options": [
+      "An electric charge is produced by applied pressure",
+      "Sound travels through a vacuum",
+      "Sound waves are converted into X-rays",
+      "Mechanical stress is produced by an applied electric field"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l1-q007",
+    "lectureId": "practical-l1",
+    "text": "How does ultrasound differ from normal audible sound according to the lecture?",
+    "options": [
+      "It consists of ionizing X-rays",
+      "It has no frequency or wavelength",
+      "It has similar physical properties but is above the audible frequency range",
+      "It can only propagate through a vacuum"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l1-q008",
+    "lectureId": "practical-l1",
+    "text": "Which component generates the ultrasound beam in the described system?",
+    "options": [
+      "Digital multimeter",
+      "Metal reflector",
+      "Piezoelectric crystals",
+      "Optical bench"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l1-q009",
+    "lectureId": "practical-l1",
+    "text": "Why is diagnostic ultrasound described as safe in the lecture?",
+    "options": [
+      "It cannot enter body tissues",
+      "It does not use ionizing radiation",
+      "It does not use any energy",
+      "It uses ionizing X-rays"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q010",
+    "lectureId": "practical-l1",
+    "text": "Which of the following is a common medical use of ultrasound?",
+    "options": [
+      "Generating ionizing radiation",
+      "Monitoring fetal development during pregnancy",
+      "Measuring the density of skull bone in HU",
+      "Producing PET images"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q011",
+    "lectureId": "practical-l1",
+    "text": "Ultrasound imaging may also assist in which procedure?",
+    "options": [
+      "Nuclear medicine scanning",
+      "Radiation dose calibration",
+      "Certain types of biopsy",
+      "Only bone fracture fixation"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l1-q012",
+    "lectureId": "practical-l1",
+    "text": "What preparation is normally needed before a routine ultrasound scan?",
+    "options": [
+      "No special preparation is normally necessary",
+      "Mandatory contrast injection for all scans",
+      "General anesthesia for every patient",
+      "Exposure to ionizing radiation first"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l1-q013",
+    "lectureId": "practical-l1",
+    "text": "What is the usual frequency range for diagnostic ultrasound?",
+    "options": [
+      "2–18 MHz",
+      "40–80 GHz",
+      "20–200 Hz",
+      "20–200 kHz"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l1-q014",
+    "lectureId": "practical-l1",
+    "text": "How does increasing ultrasound frequency usually affect imaging?",
+    "options": [
+      "Better image quality but less tissue penetration",
+      "Greater penetration with the same image quality",
+      "Worse image quality with greater penetration",
+      "No change in image quality or penetration"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l1-q015",
+    "lectureId": "practical-l1",
+    "text": "What is the main advantage of using lower ultrasound frequencies?",
+    "options": [
+      "Higher image resolution than high frequencies",
+      "Deeper penetration into tissues",
+      "Elimination of the need for echoes",
+      "Production of ionizing radiation"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q016",
+    "lectureId": "practical-l1",
+    "text": "In addition to diagnosis, ultrasound may also be used for:",
+    "options": [
+      "Producing positron-emission images",
+      "Treatment",
+      "Generating diagnostic X-ray beams",
+      "Measuring bone density in HU only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q017",
+    "lectureId": "practical-l1",
+    "text": "What pulse-frequency range is stated for the ultrasound source in the principle of work?",
+    "options": [
+      "20–200 Hz",
+      "1–5 MHz",
+      "40–60 GHz",
+      "2–18 kHz"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l1-q018",
+    "lectureId": "practical-l1",
+    "text": "What is the name of the small probe used with gel during an ultrasound scan?",
+    "options": [
+      "Digital multimeter",
+      "Optical profile-bench",
+      "Transducer",
+      "Reflector screen"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l1-q019",
+    "lectureId": "practical-l1",
+    "text": "How is the distance to a reflecting object determined in ultrasound?",
+    "options": [
+      "From the thickness of the ultrasound gel",
+      "From the brightness of the display only",
+      "From the electrical power-supply rating",
+      "From echo return time and the known speed of sound"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l1-q020",
+    "lectureId": "practical-l1",
+    "text": "How do high-frequency ultrasound waves enter the body during scanning?",
+    "options": [
+      "They travel from the monitor directly into the body",
+      "They enter through a metal reflector screen",
+      "They travel from the transducer through the gel into the body",
+      "They are produced inside the digital multimeter"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l1-q021",
+    "lectureId": "practical-l1",
+    "text": "How is the ultrasound image produced after the echoes return?",
+    "options": [
+      "A metal plate records an X-ray exposure",
+      "The reflector changes sound directly into visible light",
+      "A computer processes the echoes collected by the probe",
+      "The skin converts echoes into electrical current alone"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q022",
+    "lectureId": "practical-l2",
+    "text": "What is the aim of Experiment 1: Absorption of Ultrasonic in Air?",
+    "options": [
+      "To confirm the law of absorption and determine the absorption coefficient",
+      "To determine the speed of light in air",
+      "To measure the temperature of water",
+      "To measure the wavelength using a metal reflector"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q023",
+    "lectureId": "practical-l2",
+    "text": "The stated law of absorption for alternating sound pressure applies to which waves?",
+    "options": [
+      "Transverse electromagnetic waves only",
+      "Plane sound waves",
+      "Light waves in a vacuum only",
+      "Standing waves in a metal plate only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q024",
+    "lectureId": "practical-l2",
+    "text": "What power supply is specified for the ultrasonic unit in Experiment 1?",
+    "options": [
+      "5 VAC, 12 W",
+      "24 VDC, 12 W",
+      "5 VDC, 12 W",
+      "12 VDC, 5 W"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q025",
+    "lectureId": "practical-l2",
+    "text": "What is the length of the optical profile-bench used in Experiment 1?",
+    "options": [
+      "80 cm",
+      "30 cm",
+      "150 cm",
+      "60 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q026",
+    "lectureId": "practical-l2",
+    "text": "Which type of sound wave is emphasized in Experiment 1 as the wave emitted from the source?",
+    "options": [
+      "X-ray beams",
+      "Transverse light waves",
+      "Spherical sound waves",
+      "Stationary electromagnetic waves"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q027",
+    "lectureId": "practical-l2",
+    "text": "What is the starting distance between the transmitter and receiver in Experiment 1?",
+    "options": [
+      "40 cm",
+      "25 cm",
+      "60 cm",
+      "5 cm"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q028",
+    "lectureId": "practical-l2",
+    "text": "Which medium is used for ultrasonic propagation in Experiment 1?",
+    "options": [
+      "Air",
+      "Vacuum",
+      "Pure copper",
+      "Glass only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q029",
+    "lectureId": "practical-l2",
+    "text": "By how much should the transmitter–receiver distance be increased during the experiment?",
+    "options": [
+      "0.2 mm steps",
+      "5–10 cm steps",
+      "1–2 mm steps",
+      "25–30 cm steps"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q030",
+    "lectureId": "practical-l2",
+    "text": "Which statement about longitudinal sound waves is correct?",
+    "options": [
+      "They do not transfer momentum",
+      "They are transverse electromagnetic waves",
+      "They propagate freely in a vacuum",
+      "They require a material medium for propagation"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l2-q031",
+    "lectureId": "practical-l2",
+    "text": "Which apparatus sends the ultrasonic waves toward the receiver?",
+    "options": [
+      "Digital multimeter",
+      "Ultrasonic transmitter",
+      "Ultrasonic receiver",
+      "Optical bench"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q032",
+    "lectureId": "practical-l2",
+    "text": "If a loudspeaker diaphragm vibrates at frequency f, how do nearby air particles vibrate?",
+    "options": [
+      "At half the frequency f",
+      "At zero frequency",
+      "At the same frequency f",
+      "At twice the frequency f"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q033",
+    "lectureId": "practical-l2",
+    "text": "Which apparatus detects the ultrasonic waves sent by the transmitter?",
+    "options": [
+      "Power supply",
+      "Optical profile-bench",
+      "Ultrasonic receiver",
+      "Ultrasonic transmitter"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q034",
+    "lectureId": "practical-l2",
+    "text": "Which expression represents the absorption law for alternating sound pressure?",
+    "options": [
+      "p(x) = p(0) × x",
+      "p(x) = p(0)e^(−2αx)",
+      "p(x) = p(0)e^(+αx)",
+      "p(x) = p(0)e^(−αx)"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l2-q035",
+    "lectureId": "practical-l2",
+    "text": "In the absorption law, what does α represent?",
+    "options": [
+      "The absorption coefficient",
+      "The initial pressure amplitude",
+      "The distance from the source",
+      "The sound frequency"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q036",
+    "lectureId": "practical-l2",
+    "text": "Which statement about the transmitter and receiver is correct in Experiment 1?",
+    "options": [
+      "Both remain fixed throughout the measurements",
+      "The transmitter is fixed and the receiver is movable",
+      "The transmitter moves and the receiver is fixed",
+      "Both must move simultaneously after every reading"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q037",
+    "lectureId": "practical-l2",
+    "text": "Which quantity is represented by p(0) in the absorption law?",
+    "options": [
+      "Absorption coefficient",
+      "Initial amplitude of alternating sound pressure",
+      "Pressure amplitude at distance x",
+      "Sound intensity at distance x"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q038",
+    "lectureId": "practical-l2",
+    "text": "What does the digital multimeter measure in Experiment 1?",
+    "options": [
+      "Voltage",
+      "Wavelength directly",
+      "Ultrasonic frequency directly",
+      "Speed of light"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q039",
+    "lectureId": "practical-l2",
+    "text": "Which combination of factors affects the absorption coefficient α?",
+    "options": [
+      "Frequency, temperature, gas properties, and relative humidity",
+      "Only the power-supply voltage",
+      "Only the receiver height and screen width",
+      "Only the transmitter color and size"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q040",
+    "lectureId": "practical-l2",
+    "text": "Under which condition does the absorption coefficient α have a fixed value?",
+    "options": [
+      "At any humidity and temperature",
+      "When the temperature always rises",
+      "Under constant conditions",
+      "When the frequency always changes"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q041",
+    "lectureId": "practical-l2",
+    "text": "Which multimeter range was emphasized in the lecturer notes for Experiment 1?",
+    "options": [
+      "20 V AC",
+      "20 V DC",
+      "2 V AC",
+      "200 A DC"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q042",
+    "lectureId": "practical-l2",
+    "text": "Which formula describes sound intensity in the absorption experiment?",
+    "options": [
+      "I(x) = I(0)e^(−2αx)",
+      "I(x) = I(0)e^(+2αx)",
+      "I(x) = I(0) + 2αx",
+      "I(x) = I(0)e^(−αx)"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l2-q043",
+    "lectureId": "practical-l2",
+    "text": "In p(x) = p(0)e^(−αx), what does p(x) represent?",
+    "options": [
+      "Initial pressure amplitude at the source",
+      "Absorption coefficient of the medium",
+      "Pressure amplitude at distance x",
+      "Speed of sound in air"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l2-q044",
+    "lectureId": "practical-l2",
+    "text": "Sound intensity is proportional to which power of alternating sound pressure?",
+    "options": [
+      "The inverse of pressure (1/p)",
+      "The square of the pressure (p²)",
+      "The square root of pressure (√p)",
+      "The first power of pressure (p)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q045",
+    "lectureId": "practical-l2",
+    "text": "Which physical quantity is actually measured in Experiment 1?",
+    "options": [
+      "Sound intensity directly",
+      "Alternating sound pressure",
+      "Wavelength in water",
+      "Speed of light"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l2-q046",
+    "lectureId": "practical-l2",
+    "text": "What type of electrical supply is used for the ultrasonic unit in Experiment 1?",
+    "options": [
+      "Alternating current (AC) only",
+      "Three-phase AC supply",
+      "High-frequency X-ray current",
+      "Direct current (DC)"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l3-q047",
+    "lectureId": "practical-l3",
+    "text": "What is the main aim of Experiment 2: Stationary Ultrasonic Waves?",
+    "options": [
+      "To measure fetal development",
+      "To determine absorption coefficient in air",
+      "To determine the ultrasound wavelength in air",
+      "To calculate X-ray attenuation"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q048",
+    "lectureId": "practical-l3",
+    "text": "Under ideal reflection from a hard wall, the ultrasound wave is reflected:",
+    "options": [
+      "With complete loss of energy",
+      "Without loss of energy",
+      "After changing into an X-ray",
+      "Without forming a reflected wave"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q049",
+    "lectureId": "practical-l3",
+    "text": "For ideal standing-wave formation, the incident and reflected waves are described as:",
+    "options": [
+      "Having completely different frequencies",
+      "Always opposite in amplitude",
+      "Coincident in phase",
+      "Traveling through a vacuum only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q050",
+    "lectureId": "practical-l3",
+    "text": "Which surface is used to reflect the ultrasonic wave in Experiment 2?",
+    "options": [
+      "A plastic lens",
+      "A metal plate",
+      "A glass prism",
+      "A water-filled tube"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q051",
+    "lectureId": "practical-l3",
+    "text": "Which type of interference produces the greatest resultant amplitude?",
+    "options": [
+      "Destructive interference",
+      "Constructive interference",
+      "Complete absorption",
+      "Ionization"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q052",
+    "lectureId": "practical-l3",
+    "text": "How is a standing ultrasonic wave formed in Experiment 2?",
+    "options": [
+      "By removing the reflecting surface",
+      "By superposition of incident and reflected waves",
+      "By ionization of air molecules",
+      "By absorption of the incident wave only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q053",
+    "lectureId": "practical-l3",
+    "text": "Which type of interference causes waves to cancel and the amplitude to become minimal?",
+    "options": [
+      "Constructive interference",
+      "Total internal reflection",
+      "Destructive interference",
+      "Refraction of light"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q054",
+    "lectureId": "practical-l3",
+    "text": "What is the amplitude at an antinode in a standing wave?",
+    "options": [
+      "Minimum amplitude",
+      "Maximum amplitude",
+      "Always zero amplitude",
+      "Unrelated to the sound pressure"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q055",
+    "lectureId": "practical-l3",
+    "text": "What is the length of the optical profile-bench used in Experiment 2?",
+    "options": [
+      "60 cm",
+      "25 cm",
+      "30 cm",
+      "150 cm"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l3-q056",
+    "lectureId": "practical-l3",
+    "text": "What is the amplitude at a node in an ideal standing wave?",
+    "options": [
+      "Double the maximum amplitude",
+      "Always greater than at an antinode",
+      "Zero or minimum amplitude",
+      "Equal to the speed of sound"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q057",
+    "lectureId": "practical-l3",
+    "text": "A maximum voltage reading on the digital multimeter indicates a:",
+    "options": [
+      "Node",
+      "Antinode",
+      "Point of complete absorption",
+      "Change to an electromagnetic wave"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q058",
+    "lectureId": "practical-l3",
+    "text": "In what steps is the receiver moved toward the transmitter?",
+    "options": [
+      "10 mm",
+      "5 cm",
+      "0.2 mm",
+      "2 cm"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q059",
+    "lectureId": "practical-l3",
+    "text": "A minimum voltage reading on the digital multimeter indicates a:",
+    "options": [
+      "Antinode",
+      "Sound transmitter",
+      "Node",
+      "Frequency generator"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q060",
+    "lectureId": "practical-l3",
+    "text": "Which physical quantity is measured by the digital multimeter to locate nodes and antinodes?",
+    "options": [
+      "Speed of sound directly",
+      "Voltage",
+      "Wavelength directly",
+      "Air temperature only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q061",
+    "lectureId": "practical-l3",
+    "text": "According to the experiment, how do incident and reflected waves compare after reflection from a hard wall?",
+    "options": [
+      "They have different frequencies and amplitudes",
+      "The reflected wave has twice the frequency",
+      "The reflected wave has zero frequency",
+      "They have the same frequency and amplitude"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l3-q062",
+    "lectureId": "practical-l3",
+    "text": "What does the ultrasonic receiver do with the received sound signal?",
+    "options": [
+      "Converts it into an electrical signal",
+      "Converts it into ionizing radiation",
+      "Creates the reflection screen",
+      "Measures the speed of light"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l3-q063",
+    "lectureId": "practical-l3",
+    "text": "Which equation expresses the superposition principle for sound pressure?",
+    "options": [
+      "P = P₁ + P₂",
+      "P = P₁ × P₂",
+      "P = P₁ / P₂",
+      "P = P₁ − P₂"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l3-q064",
+    "lectureId": "practical-l3",
+    "text": "What is the main function of the reflecting screen in Experiment 2?",
+    "options": [
+      "To absorb all ultrasonic waves",
+      "To reflect ultrasound and allow interference with the incident wave",
+      "To measure the voltage supplied to the unit",
+      "To produce ionizing X-rays"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q065",
+    "lectureId": "practical-l3",
+    "text": "Which arrangement of the transmitter and receiver is used during measurement of standing waves?",
+    "options": [
+      "Movable transmitter and fixed receiver",
+      "Both devices fixed with no measurements",
+      "Fixed transmitter and movable receiver",
+      "Both devices replaced by a CT scanner"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q066",
+    "lectureId": "practical-l3",
+    "text": "At a maximum of the standing wave, the pressure amplitude is:",
+    "options": [
+      "Equal to zero",
+      "One quarter of a single wave",
+      "Twice that of a single wave",
+      "Half that of a single wave"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q067",
+    "lectureId": "practical-l3",
+    "text": "What is the purpose of the measuring scale in the standing-wave experiment?",
+    "options": [
+      "To calculate the electrical power of the source",
+      "To measure the positions and distances along the apparatus",
+      "To produce the ultrasonic pulses",
+      "To convert ultrasound into X-rays"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q068",
+    "lectureId": "practical-l3",
+    "text": "What is the distance between two successive nodes of a standing wave?",
+    "options": [
+      "λ/2",
+      "λ/4",
+      "λ",
+      "2λ"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l3-q069",
+    "lectureId": "practical-l3",
+    "text": "When the cosine function is zero, the alternating sound pressure amplitude is:",
+    "options": [
+      "Twice the single-wave amplitude",
+      "Zero",
+      "Four times the single-wave amplitude",
+      "Equal to the frequency"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q070",
+    "lectureId": "practical-l3",
+    "text": "What is the distance between two successive antinodes?",
+    "options": [
+      "λ/4",
+      "λ/2",
+      "2λ",
+      "λ/8"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q071",
+    "lectureId": "practical-l3",
+    "text": "What is the distance between a node and its adjacent antinode?",
+    "options": [
+      "λ/2",
+      "λ",
+      "λ/4",
+      "2λ"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q072",
+    "lectureId": "practical-l3",
+    "text": "What is the transmitter emission frequency used in Experiment 2?",
+    "options": [
+      "20 Hz",
+      "10 MHz",
+      "2 MHz",
+      "40 kHz"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l3-q073",
+    "lectureId": "practical-l3",
+    "text": "If Δx is the distance between successive nodes, how is the wavelength calculated?",
+    "options": [
+      "λ = Δx/2",
+      "λ = 2Δx",
+      "λ = 4Δx",
+      "λ = Δx²"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q074",
+    "lectureId": "practical-l3",
+    "text": "What speed of sound in air is given at 20°C?",
+    "options": [
+      "3 × 10⁸ m/s",
+      "1500 m/s",
+      "343.4 m/s",
+      "40 m/s"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q075",
+    "lectureId": "practical-l3",
+    "text": "If the distance between two consecutive antinodes is 4.29 mm, what is the wavelength?",
+    "options": [
+      "8.58 mm",
+      "4.29 mm",
+      "2.145 mm",
+      "17.16 mm"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "practical-l3-q076",
+    "lectureId": "practical-l3",
+    "text": "What is represented on the X-axis of the standing-wave graphs in the lecturer notes?",
+    "options": [
+      "Voltage",
+      "D − X",
+      "Frequency",
+      "Pressure amplitude only"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q077",
+    "lectureId": "practical-l3",
+    "text": "Which equation relates wave speed, frequency, and wavelength?",
+    "options": [
+      "C = λ / f",
+      "C = f × λ",
+      "C = f / λ",
+      "C = f + λ"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q078",
+    "lectureId": "practical-l3",
+    "text": "What is represented on the Y-axis of the standing-wave graphs?",
+    "options": [
+      "D − X",
+      "Wavelength in meters",
+      "Voltage",
+      "Frequency in hertz"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q080",
+    "lectureId": "practical-l3",
+    "text": "What is the calculated wavelength of ultrasound in air in Experiment 2?",
+    "options": [
+      "40 mm",
+      "8.58 mm",
+      "25–30 cm",
+      "0.15 mm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q081",
+    "lectureId": "practical-l3",
+    "text": "Which statement correctly compares sound waves with light?",
+    "options": [
+      "Sound is electromagnetic radiation, while light is mechanical",
+      "Both sound and light always require air",
+      "Neither sound nor light has a frequency",
+      "Sound needs a material medium, while light is electromagnetic radiation"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "practical-l3-q082",
+    "lectureId": "practical-l3",
+    "text": "What happens to an atom when it loses an electron?",
+    "options": [
+      "It becomes a negative ion",
+      "It becomes a positive ion",
+      "It becomes an electrically neutral photon",
+      "It stops containing a nucleus"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "practical-l3-q083",
+    "lectureId": "practical-l3",
+    "text": "How do particle vibrations differ in longitudinal and transverse waves?",
+    "options": [
+      "Parallel in both wave types",
+      "Perpendicular in longitudinal waves and parallel in transverse waves",
+      "Parallel in longitudinal waves and perpendicular in transverse waves",
+      "Perpendicular in both wave types"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q084",
+    "lectureId": "practical-l3",
+    "text": "What happens to an atom when it gains an electron?",
+    "options": [
+      "It becomes a positive ion",
+      "It becomes an X-ray beam",
+      "It becomes a negative ion",
+      "It loses all its protons"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "practical-l3-q085",
+    "lectureId": "practical-l3",
+    "text": "What is the ultrasonic wavelength in water at 10 MHz if sound speed is 1500 m/s?",
+    "options": [
+      "1.5 mm",
+      "0.15 mm",
+      "8.58 mm",
+      "15 mm"
+    ],
+    "correct": 1
   }
 ]

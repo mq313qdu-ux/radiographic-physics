@@ -5,5 +5,29 @@
     "category": "مرشحات الفيزياء النظري",
     "order": 1,
     "icon": "📘"
+  },
+  {
+    "id": "practical-l1",
+    "title": "SONAR WORKING PRINCIPLE",
+    "number": "1",
+    "category": "اسئلة العملي",
+    "order": 2,
+    "icon": "📗"
+  },
+  {
+    "id": "practical-l2",
+    "title": "EXPERIMENT 1: ABSORPTION OF ULTRASONIC IN AIR",
+    "number": "2",
+    "category": "اسئلة العملي",
+    "order": 3,
+    "icon": "📙"
+  },
+  {
+    "id": "practical-l3",
+    "title": "EXPERIMENT 2: STATIONARY ULTRASONIC WAVES",
+    "number": "3",
+    "category": "اسئلة العملي",
+    "order": 4,
+    "icon": "📕"
   }
 ]
