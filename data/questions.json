@@ -1,0 +1,506 @@
+[
+  {
+    "id": "theory-q001",
+    "lectureId": "theory",
+    "text": "What does sound need to propagate, unlike light and X-rays?",
+    "options": [
+      "A vacuum",
+      "A material medium, such as water or soft tissue",
+      "A magnetic field",
+      "An electric current"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q002",
+    "lectureId": "theory",
+    "text": "What type of waves does sound consist of?",
+    "options": [
+      "Transverse waves",
+      "Electromagnetic waves",
+      "Longitudinal waves",
+      "Surface waves"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q003",
+    "lectureId": "theory",
+    "text": "Through which of the following media can sound not travel?",
+    "options": [
+      "Water",
+      "Soft tissue",
+      "Air",
+      "A vacuum"
+    ],
+    "correct": 3
+  },
+  {
+    "id": "theory-q004",
+    "lectureId": "theory",
+    "text": "In a longitudinal sound wave, how do the particles of the transmitting medium vibrate?",
+    "options": [
+      "Perpendicular to the direction of wave propagation",
+      "Parallel to the direction of wave propagation",
+      "In a circular motion around their equilibrium position",
+      "Randomly in all directions"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q005",
+    "lectureId": "theory",
+    "text": "What are the regions where particles of the medium come closer together during the passage of a longitudinal sound wave?",
+    "options": [
+      "Rarefactions",
+      "Reflections",
+      "Compressions",
+      "Diffractions"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q006",
+    "lectureId": "theory",
+    "text": "How is sound defined physically according to the properties of ultrasound?",
+    "options": [
+      "A flow of electrons through an electrical conductor",
+      "A pressure disturbance (vibration) that propagates through matter",
+      "Ionizing electromagnetic radiation",
+      "An alternating magnetic field"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q007",
+    "lectureId": "theory",
+    "text": "Through which of the following states of matter can sound waves travel?",
+    "options": [
+      "Gases and liquids only",
+      "Solids and liquids only",
+      "All states of matter (gases, liquids, solids, and plasma)",
+      "A vacuum only"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q008",
+    "lectureId": "theory",
+    "text": "What type of energy do the mechanical pressure waves of sound carry as they propagate?",
+    "options": [
+      "Kinetic energy",
+      "Nuclear energy",
+      "Chemical energy",
+      "Potential energy only"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "theory-q009",
+    "lectureId": "theory",
+    "text": "Why can sound not travel through a vacuum?",
+    "options": [
+      "Because a vacuum reflects all sound waves",
+      "Because sound requires a material medium to propagate as a mechanical pressure wave",
+      "Because a vacuum immediately absorbs the kinetic energy of the wave",
+      "Because sound travels at the speed of light in a vacuum"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q010",
+    "lectureId": "theory",
+    "text": "Which of the following statements accurately describes the nature of sound wave propagation?",
+    "options": [
+      "They propagate as electromagnetic waves that do not require a medium",
+      "They propagate as mechanical pressure waves",
+      "They propagate only through crystalline solids",
+      "They propagate by transferring matter itself from one place to another"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q011",
+    "lectureId": "theory",
+    "text": "According to the physical definition, what is the minimum frequency at which sound is classified as ultrasound?",
+    "options": [
+      "20 Hz",
+      "2,000 Hz",
+      "20,000 Hz",
+      "2 MHz"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q012",
+    "lectureId": "theory",
+    "text": "What does the term \"Ultrasounds\" refer to when applied to sound?",
+    "options": [
+      "Sounds that travel faster than the speed of sound in air",
+      "Any frequencies above the range of human hearing (audible sound)",
+      "Low-frequency electromagnetic waves",
+      "Very loud sounds that damage the human ear"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q013",
+    "lectureId": "theory",
+    "text": "What is the frequency range actually used in medical ultrasound imaging devices?",
+    "options": [
+      "20 to 20,000 Hz",
+      "100 to 500 kHz",
+      "2 to 15 MHz",
+      "50 to 100 MHz"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q014",
+    "lectureId": "theory",
+    "text": "What is the primary purpose of using diagnostic medical ultrasound?",
+    "options": [
+      "To help diagnose and treat patients using high-frequency sound",
+      "To heat deep tissues in the body using ionizing radiation",
+      "To measure the electrical activity of the heart and brain",
+      "To sterilize internal tissues from bacteria and viruses"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "theory-q015",
+    "lectureId": "theory",
+    "text": "What does \"SONAR\" stand for?",
+    "options": [
+      "Sound Navigation and Radiation",
+      "Sound Navigation and Ranging",
+      "Sonic Navigation and Resonance",
+      "Sound Amplification and Ranging"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q016",
+    "lectureId": "theory",
+    "text": "Which of the following materials is mentioned as an example of natural crystals with piezoelectric properties?",
+    "options": [
+      "Lead",
+      "Zirconium",
+      "Quartz",
+      "Titanium"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q017",
+    "lectureId": "theory",
+    "text": "What is the commonly used synthetic material with piezoelectric properties, known by the abbreviation PZT (Ceramic)?",
+    "options": [
+      "Lead Zirconate Titanate",
+      "Potassium Zinc Titanium",
+      "Platinum Zirconium Tungsten",
+      "Phosphorus Zinc Tantalum"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "theory-q018",
+    "lectureId": "theory",
+    "text": "What atomic structural feature gives piezoelectric crystals their unique electrical properties?",
+    "options": [
+      "A completely symmetrical atomic structure",
+      "An inherently asymmetrical atomic structure",
+      "The presence of free electrons that move completely freely",
+      "The absence of any electrical charges within atoms"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q019",
+    "lectureId": "theory",
+    "text": "In describing piezoelectric crystals, what does the phrase \"two reciprocal abilities\" referring to the abilities of these crystals mean?",
+    "options": [
+      "Generating light and heat together",
+      "Converting sound energy into thermal energy only",
+      "Reversible conversion between electrical signals and mechanical (sound) waves",
+      "Storing electrical charges for long periods without loss"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q020",
+    "lectureId": "theory",
+    "text": "What are the input and output of piezoelectric crystals, and what is the input in the \"Direct Effect\"?",
+    "options": [
+      "Input: Electrical charge → Output: Mechanical strain",
+      "Input: Mechanical strain (compression or tension) → Output: Electrical charge (voltage)",
+      "Input: Sound waves → Output: Heat",
+      "Input: Light → Output: Electric current"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q021",
+    "lectureId": "theory",
+    "text": "Which of the following functions in an ultrasound device primarily depends on the \"Direct Effect\"?",
+    "options": [
+      "Transmitting sound pulses into the body",
+      "Receiving echoes and converting them into electrical signals",
+      "Focusing the ultrasound beam",
+      "Magnifying the image on the screen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q022",
+    "lectureId": "theory",
+    "text": "When mechanical strain is applied to a piezoelectric crystal, how is electrical charge generated?",
+    "options": [
+      "By heating the crystal until electrons are emitted from it",
+      "By the separation of positive and negative charges within the material as a result of compression or tension",
+      "By connecting the crystal to a powerful external energy source",
+      "By a chemical reaction occurring on the surface of the crystal"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q023",
+    "lectureId": "theory",
+    "text": "In addition to crystals and ceramics, which of the following biological materials were mentioned in the text as showing an electrical charge response when subjected to mechanical strain?",
+    "options": [
+      "Blood and water",
+      "Various proteins, DNA, and bone",
+      "Fats and soft tissues only",
+      "Air and lungs"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q024",
+    "lectureId": "theory",
+    "text": "What is another name for \"Process II\" mentioned in the title (Electrical Charge ⇒ Mechanical Strain)?",
+    "options": [
+      "The Direct Effect",
+      "The Inverse Effect",
+      "The Thermal Effect",
+      "The Magnetic Effect"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q025",
+    "lectureId": "theory",
+    "text": "When does the \"Inverse Effect\" occur in the context of an ultrasound device?",
+    "options": [
+      "When the crystal receives the echo returning from the tissues",
+      "When an electrical charge is applied to the crystal, causing it to vibrate and produce sound waves",
+      "When the crystal is exposed to high temperatures",
+      "When the crystal breaks due to severe pressure"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q026",
+    "lectureId": "theory",
+    "text": "As stated in the text, what is the basic structure of an ultrasound transducer?",
+    "options": [
+      "A single piezoelectric crystal surrounded only by a layer of plastic",
+      "A piezoelectric crystal or elements sandwiched between two metal plates",
+      "An electrical coil placed inside an evacuated glass tube",
+      "A permanent magnet surrounded by a copper coil"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q027",
+    "lectureId": "theory",
+    "text": "On which physical property does the transducer primarily depend for its function?",
+    "options": [
+      "Magnetic property",
+      "Thermal property",
+      "Piezoelectric property",
+      "Optical property"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q028",
+    "lectureId": "theory",
+    "text": "What happens when a sound wave strikes the metal plates of the transducer during the \"Reception\" or \"Listening\" stage?",
+    "options": [
+      "The metal plates melt and turn into liquid",
+      "The plates vibrate, and the crystal picks up this mechanical vibration and converts it into a weak alternating electrical voltage (weak AC voltage)",
+      "The vibrations stop completely and the crystal absorbs the energy without moving",
+      "The sound energy is converted directly into visible light"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q029",
+    "lectureId": "theory",
+    "text": "What does the piezoelectric crystal produce when it picks up the mechanical vibration caused by a sound wave striking it?",
+    "options": [
+      "A strong direct current (strong DC current)",
+      "A weak alternating electrical voltage (weak AC voltage)",
+      "A constant magnetic field",
+      "Very high heat"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q030",
+    "lectureId": "theory",
+    "text": "Why are the plates fixed in the transducer structure used, according to the simplified description in the text?",
+    "options": [
+      "Because they act as a permanent electrical insulator",
+      "Because they vibrate when struck by sound waves and transmit the vibration to the crystal",
+      "Because they always supply electricity from outside the crystal",
+      "Because they prevent sound waves from leaving the device"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q031",
+    "lectureId": "theory",
+    "text": "What does the basic structure of an ultrasound transducer consist of?",
+    "options": [
+      "A copper coil and a permanent magnet",
+      "Piezoelectric crystals sandwiched between two metal plates",
+      "A glass lens and a laser light source",
+      "A discharge tube and a phosphor screen"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q032",
+    "lectureId": "theory",
+    "text": "When a sound wave strikes the two metal plates of a transducer, what happens to the piezoelectric crystal located between them?",
+    "options": [
+      "The crystal melts and turns into liquid",
+      "The crystal picks up the mechanical vibration and converts it into a weak alternating electrical voltage (weak AC voltage)",
+      "The crystal reflects the sound without any change in its energy",
+      "The crystal generates high heat that breaks the two metal plates"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q033",
+    "lectureId": "theory",
+    "text": "Into what type of energy is mechanical (sound) energy converted during the \"Reception\" or \"Listening\" process inside the transducer?",
+    "options": [
+      "Chemical energy",
+      "Nuclear energy",
+      "Electrical energy (alternating electrical voltage)",
+      "Light energy"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q034",
+    "lectureId": "theory",
+    "text": "What is the essential and fundamental component of every ultrasound transducer?",
+    "options": [
+      "Digital display",
+      "Coaxial cable",
+      "Piezoelectric crystal",
+      "Keyboard"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q035",
+    "lectureId": "theory",
+    "text": "How many main functions does the piezoelectric crystal perform inside the transducer?",
+    "options": [
+      "Only one function (sound transmission)",
+      "Two main functions (producing pulses and receiving echoes)",
+      "Three functions (transmission, reception, and image processing)",
+      "Four functions (transmission, reception, storage, and printing)"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q036",
+    "lectureId": "theory",
+    "text": "What is the first function mentioned for the piezoelectric crystal in the transducer?",
+    "options": [
+      "Cooling the device during operation",
+      "Producing ultrasound pulses",
+      "Displaying the final image on the screen",
+      "Measuring the patient’s blood pressure"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q037",
+    "lectureId": "theory",
+    "text": "What is the second function of the piezoelectric crystal after transmitting pulses?",
+    "options": [
+      "Amplifying electrical signals from the main source",
+      "Receiving or detecting the returning echoes",
+      "Converting X-rays into visible light",
+      "Generating a magnetic field to image tissues"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q038",
+    "lectureId": "theory",
+    "text": "Why is the piezoelectric crystal considered a vital component in ultrasound imaging?",
+    "options": [
+      "Because it performs a dual function, acting as both a transmitter and a receiver of sound waves",
+      "Because it prevents sound from leaving the patient’s body",
+      "Because it converts electricity into light only",
+      "Because it electronically controls the storage of patient data"
+    ],
+    "correct": 0
+  },
+  {
+    "id": "theory-q039",
+    "lectureId": "theory",
+    "text": "What is the geometric shape of the ultrasound beam produced by a sector transducer?",
+    "options": [
+      "Rectangular",
+      "Completely circular",
+      "Sector-shaped, almost triangular",
+      "Parallel linear"
+    ],
+    "correct": 2
+  },
+  {
+    "id": "theory-q040",
+    "lectureId": "theory",
+    "text": "Why are sector transducers considered ideal for cardiac applications?",
+    "options": [
+      "Because they operate at very high frequencies exceeding 15 MHz",
+      "Because they fit the narrow spaces between the ribs due to their small footprint",
+      "Because they produce only static images and are unsuitable for motion",
+      "Because they are large and cover a wide area of the body at once"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q041",
+    "lectureId": "theory",
+    "text": "Which of the following medical applications is mentioned as a major use of sector transducers because of the small \"acoustic windows\"?",
+    "options": [
+      "Imaging superficial bones",
+      "Gynecological (pelvic) imaging and echocardiography",
+      "Imaging the superficial thyroid gland",
+      "Imaging superficial blood vessels in the arm"
+    ],
+    "correct": 1
+  },
+  {
+    "id": "theory-q042",
+    "lectureId": "theory",
+    "text": "According to the text, why are convex or curved transducers usually used for abdominal viewing?",
+    "options": [
+      "Because they provide better resolution and penetration benefits",
+      "Because they are the least expensive among all transducers",
+      "Because they operate at higher frequencies than brain transducers",
+      "Because they produce a completely straight longitudinal image"
+    ],
+    "correct": 0
+  }
+]
